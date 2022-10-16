@@ -1,0 +1,90 @@
+.container{
+  padding: 80px 0;
+  background: rgb(11, 214, 250);
+}
+.parc h2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+.parc p {
+  font-size: 1.5rem;
+  margin: 0 20%;
+}
+.cardBlack{
+  background: black;
+  color: #fff;
+  font-size: 2.5rem;
+  height: 100px;
+  text-align: center;
+}
+.cardBlack p {
+  margin: 0;
+  padding-top: 30px;
+}
+
+.imgActivite{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0px, 1fr));
+  width: 100%;
+}
+.txt {
+  display: flex;
+  height: 450px;
+  text-align: center;
+  background: #b0f2b6;
+  padding-top: 10%;
+  z-index: 1;
+  border-radius: 20% 20% 0px 0px;
+  margin-top: -6%;
+}
+.txt h3 {
+  font-size: 1.5rem;
+}
+#bavay{
+  background: salmon;
+}
+.txt p {
+  font-size: 1.2rem;
+  padding: 0 10%;
+}
+
+.actualite{
+  display: flex;
+}
+
+.meteo {
+  width: 30%;
+  background: rgb(212,215,42);
+  background: radial-gradient(circle, rgba(212,215,42,1) 24%, rgba(29,135,253,1) 74%);
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+}
+.meteo h3{
+  font-size: 2rem;
+  padding-top: 50px;
+}
+.meteo span {
+font-size: 1.5rem;
+}
+.firstActu{
+  width: 70%;
+  display: flex;
+}
+.firstActuimg{
+ width: 100%;
+}
+.infoActu {
+  padding: 20px;
+  text-align: center;
+}
+.infoActu h4{
+  font-size: 2rem;
+}
+.infoActu p {
+  font-size: 1.5rem;
+}
+.date {
+  color: red;
+}

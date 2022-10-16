@@ -1,0 +1,96 @@
+{
+  "tourisme": [
+    {
+      "name": "Le site archéologique de Bavay",
+      "adresse": "2 Allée Chanoine Henri Bievelet 59570",
+      "ville": "Bavay",
+      "phone": "03 59 73 15 50",
+      "site": "https://forumantique.fr/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Bienvenue au Forum antique de Bavay, musée archéologique du Département du Nord. Vous allez découvrir les vestiges d’un site archéologique romain de 2,5 hectares, lieu incontournable de la région Hauts-de-France.",
+      "description2": "Parfaite rencontre entre le passé et le présent, le forum allie avec brio la présentation d’un site archéologique de plus de 2 000 ans avec une architecture moderne. Vous êtes invités à déambuler sur cet espace chargé d’histoire, lieu de rencontre autrefois privilégié par les Romains.",
+      "horaire": "De 9h à 12h et de 13h à 18h les lundi, mardi, jeudi, vendredi et dimanche De 13h à 18h les mercredi et samedi"
+    },
+
+    {
+      "name": "MusVerre",
+      "adresse": "76 rue du Général de Gaulle 59216",
+      "ville": "Sars-potries",
+      "phone": "0359731616",
+      "site": "https://museeduverre.lenord.fr/fr/Accueil.aspx",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Venez visiter le MusVerre et son bâtiment exceptionnel, entièrement revêtu de pierre bleue. Vous y découvrirez un rare ensemble de bousillés, objets du quotidien pleins de fantaisie et de couleurs, créés par les verriers de Sars-Poteries, ainsi qu’une collection unique d’œuvres en verre d’artistes contemporains venus de tous horizons.",
+      "description2": "Le MusVerre propose des expositions temporaires régulières, de nombreuses activités et ateliers pour toute la famille, des visites-découverte et des démonstrations occasionnelles du travail du verre. Pour plus d'informations, n'hésitez pas à visiter le site Internet du MusVerre",
+      "horaire": "Le musée est ouvert de 11h à 18h du mardi au dimanche."
+    },
+    {
+      "name": "Arboretum de l’étang David",
+      "adresse": "18, rue Chevray 59530",
+      "ville": "Le quesnoy",
+      "phone": "03 27 09 04 60",
+      "site": "https://www.cc-paysdemormal.fr/environnement-amenagement-html/foret-de-mormal/projet-valorisation-lrarboretum-partagez-vos-idees-html/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "L’arboretum de l’étang David a été créé en 1969 par l’Office National des Forêts en partenariat avec le ministère de l’agriculture et le conseil Général du Nord. Il devait répondre à un double objectif, présenter au public toute la palette des essences forestières qu’elles soient locales ou exotiques et connaitre le comportement de ces différentes essences dans le contexte écologique de la forêt de Mormal. En 2000, dans le cadre des contrats de forêts, de nouveaux aménagements d’accueil du public ont été installés. Usés par le temps ils avaient besoin d’être renouvelés. ",
+      "description2": "",
+      "horaire": "Accueil du public du lundi au vendredi de 8h30 à 12h et de 13h30 à 17h"
+    },
+    {
+      "name": "Zoo Maubeuge",
+      "adresse": "Avenue du Parc 59600",
+      "ville": "Maubeuge",
+      "phone": "03 27 53 75 84",
+      "site": "http://www.zoodemaubeuge.fr/wp/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Le Zoo de Maubeuge vous accueille pour une pause nature en famille ou entre amis, au coeur d’un magnifique parc fleuri et arboré de 7 hectares au pied des remparts de Vauban, en plein centre ville. Plus de 300 animaux de 60 espèces de mammifères, d’oiseaux et de reptiles témoignent de la faune des 5 continents.",
+      "description2": "",
+      "horaire": "Avril, mai, juin, septembre : 10h à 18h. Juillet, août : 10h à 19h. "
+    },
+    {
+      "name": "Musée du textile et de la vie sociale",
+      "adresse": "Place Maria Blondeau B.P. 65 59610",
+      "ville": "Fourmies",
+      "phone": "03 27 60 66 11",
+      "site": "http://www.ecomusee-avesnois.fr/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Le musée du textile et de la vie sociale occupe une filature de laine peignée de 1863 avec sa machine à vapeur ainsi qu’un impressionnant parc de machines en fonctionnement. Un parcours muséographique plonge le visiteur dans la vie quotidienne du monde ouvrier à la fin du 19ème.",
+      "description2": "",
+      "horaire": "du 1 mars au 30 novembre de 10h à 18h / Les Week-end et Jours fériés de 14h à 18h."
+    },
+    {
+      "name": "Le moulin de la Parapette",
+      "adresse": "Rue de la mairie 59164",
+      "ville": "Marpent",
+      "phone": "03 27 39 63 41",
+      "site": "https://moulindemarpent.wordpress.com/histoire/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Le Moulin de la Parapette date d'avant 1789 . Bâti en moellons de pierres bleues, ce moulin de forme cylindrique dresse ses 14 mètres de hauteur sur la rive gauche de la Sambre au lieu-dit de La Folie-d’en-haut.",
+      "description2": "Les ailes de ce moulin à vent présentent une particularité rare au Nord de Paris : ce sont des ailes de type Berton. il existe quatre moulins Berton au Nord de Paris. Les ailes se seraient définitivement arrêtées avant 1877. En 2003, la municipalité décide de le sauver. Il devient alors le héros de la Fête de mon Mouli",
+      "horaire": "deux dimanches par mois de 15h à 17h30 par Le Moulin d'Antan et ses Meuniers d'avril à octobre"
+    },
+    {
+      "name": "Musée départemental Matisse",
+      "adresse": "Palais Fénélon Place du commandant Richez",
+      "ville": "Le Cateau-Cambrésis",
+      "phone": "03 59 73 38 00",
+      "site": "https://museematisse.fr/",
+      "img": "",
+      "imgwidth": "",
+      "imgheigth": "",
+      "description1": "Le musée Matisse a été créé en 1952 par Matisse lui-même, dans la ville où il est né le 31 décembre 1869. Le peintre offre à ses concitoyens du Cateau-Cambrésis 82 œuvres qu’il installe dans l’Hôtel de Ville Renaissance.",
+      "description2": "La collection est transférée en cœur de ville en 1982 dans le Palais Fénelon, ancienne résidence secondaire des archevêques de Cambrai, seigneurs du Cateau. Le bâtiment actuel, entre cour et jardin, date du milieu du XVIIIème siècle.",
+      "horaire": "tous le jours sauf le mardi de 10h à 18h"
+    }
+  ]
+}
